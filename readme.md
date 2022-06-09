@@ -5,7 +5,7 @@
 부산소마고 재학중
 <a href="https://www.instagram.com/soohyuneeee">
   <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joongbin4337?"  alt="instagram" /> </a>
-  https://img.shields.io/github/pipenv/locked/python-version/soohyuneeee/soohyuneeee
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
  
 
 
