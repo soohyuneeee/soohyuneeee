@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=88&section=header&text=SOOHYUNEEEE&fontSize=80)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-[![Solved.ac
-05tngus](http://mazassumnida.wtf/api/v2/generate_badge?boj=05tngus)](https://solved.ac/05tngus)
+[![Solved.ac 05tngus](http://mazassumnida.wtf/api/v2/generate_badge?boj=05tngus)](https://solved.ac/05tngus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soohyuneeee)](https://github.com/soohyuneeee/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
