@@ -15,15 +15,4 @@
  <a href="https://github.com/soohyuneeee"><img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/>   
  <hr>
  
- ![WhatMinionsGIF](https://user-images.githubusercontent.com/80656686/177696998-1ff41b2e-4d20-42c7-8335-bef24a0cc776.gif)
---------------------------------------------------------------------------------
-
-  
- ![soohyuneee's github stats](https://github-readme-stats.vercel.app/api?username=soohyuneeee&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soohyuneeee&layout=compact&theme=graywhite)
-
-
-[![Solved.ac 05tngus](http://mazassumnida.wtf/api/v2/generate_badge?boj=05tngus)](https://solved.ac/05tngus)
-</div>
-
-   
 
