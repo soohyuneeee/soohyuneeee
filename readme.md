@@ -5,7 +5,6 @@
     - 팀원들과 개발 과정에서 얻은 배움을 공유하는 것이 얼마나 중요한 지 이해하고 있습니다.
 # 📞 Contact & Channel
 - **Email | 05tngus95@gmail.com**
-- **Github | [https://github.com/gilteunchoi](https://github.com/gilteunchoi)**
 - **Instagram | [https://www.instagram.com/soohyuneeee](https://www.instagram.com/soohyuneeee)**
 
 # 🛠 Skills
