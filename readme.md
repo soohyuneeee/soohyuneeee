@@ -1,8 +1,6 @@
 # 🙋 About Me
-- 안녕하세요 INFP 대명사 개발자, 조수현 입니다.😄 
-    - 방대한 데이터를 손쉽게 가공하는게 너무 멋져서 백엔드 개발을 시작했습니다.
+- 안녕하세요, 조수현 입니다.😄 
 - 개발하며 배운 내용을 남에게 알려주며 복습하는 과정을 좋아합니다.
-    - 팀원들과 개발 과정에서 얻은 배움을 공유하는 것이 얼마나 중요한 지 이해하고 있습니다.
 # 📞 Contact & Channel
 - **Email | 05tngus95@gmail.com**
 - **Instagram | [https://www.instagram.com/soohyuneeee](https://www.instagram.com/soohyuneeee)**
